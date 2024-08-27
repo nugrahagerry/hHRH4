@@ -1,0 +1,86 @@
+REMARK YASARA *************************************************************
+REMARK YASARA *                                                           *
+REMARK YASARA *                     Y  A  S  A  R  A                      *
+REMARK YASARA *                                                           *
+REMARK YASARA *   Yet Another Scientific Artificial Reality Application   *
+REMARK YASARA *                                                           *
+REMARK YASARA *            MOLECULE STRUCTURE FILE, PDB FORMAT            *
+REMARK YASARA *                                                           *
+REMARK YASARA * Just use YASARA every day to make your questions go away! *
+REMARK YASARA *                                                           *
+REMARK YASARA *                      www.YASARA.org                       *
+REMARK YASARA *                                                           *
+REMARK YASARA *************************************************************
+REMARK YASARA
+REMARK YASARA Written on:        Sun Jun 28 07:35:06 2020
+REMARK YASARA Number of models: 1
+REMARK YASARA Number of atoms:   33
+REMARK YASARA Please address questions or suggestions to: Eliza@yasara.org
+REMARK YASARA
+HETATM    1  C   UNK     0       0.178  -0.421   0.000  1.00  0.00           C
+HETATM    2 1H   UNK     0       0.408   0.653   0.000  1.00  0.00           H
+HETATM    3 2H   UNK     0      -0.422  -0.650   0.891  1.00  0.00           H
+HETATM    4 3H   UNK     0      -0.422  -0.650  -0.891  1.00  0.00           H
+HETATM    5  N   UNK     0       1.414  -1.220   0.000  1.00  0.00           N
+HETATM    6  HN  UNK     0       2.304  -0.738   0.000  1.00  0.00           H
+HETATM    7  C1  UNK     0       1.376  -2.607   0.000  1.00  0.00           C
+HETATM    8  C2  UNK     0       2.335  -3.620   0.000  1.00  0.00           C
+HETATM    9  H2  UNK     0       3.423  -3.644   0.000  1.00  0.00           H
+HETATM   10  N1  UNK     0       1.329  -4.581   0.000  1.00  0.00           N
+HETATM   11  C3  UNK     0       0.372  -3.575   0.000  1.00  0.00           C
+HETATM   12  H3  UNK     0      -0.716  -3.561   0.000  1.00  0.00           H
+HETATM   13  C4  UNK     0       1.262  -5.962   0.000  1.00  0.00           C
+HETATM   14  C5  UNK     0       2.460  -6.677   0.000  1.00  0.00           C
+HETATM   15  H5  UNK     0       3.407  -6.155   0.000  1.00  0.00           H
+HETATM   16  C6  UNK     0       2.414  -8.051   0.000  1.00  0.00           C
+HETATM   17  N2  UNK     0       3.528  -8.815   0.000  1.00  0.00           N
+HETATM   18 1HN2 UNK     0       3.392  -9.811   0.000  1.00  0.00           H
+HETATM   19 2HN2 UNK     0       4.433  -8.378   0.000  1.00  0.00           H
+HETATM   20  N3  UNK     0       1.286  -8.721   0.000  1.00  0.00           N
+HETATM   21  C7  UNK     0       0.171  -7.984   0.000  1.00  0.00           C
+HETATM   22  C8  UNK     0      -1.127  -8.816   0.000  1.00  0.00           C
+HETATM   23 1H8  UNK     0      -1.060  -9.485  -0.866  1.00  0.00           H
+HETATM   24 2H8  UNK     0      -1.060  -9.485   0.866  1.00  0.00           H
+HETATM   25  C9  UNK     0      -2.552  -8.214   0.000  1.00  0.00           C
+HETATM   26  C10 UNK     0      -3.633  -9.287   0.000  1.00  0.00           C
+HETATM   27 1H10 UNK     0      -4.641  -8.855   0.000  1.00  0.00           H
+HETATM   28 2H10 UNK     0      -3.546  -9.930   0.885  1.00  0.00           H
+HETATM   29 3H10 UNK     0      -3.546  -9.930  -0.885  1.00  0.00           H
+HETATM   30  C11 UNK     0      -2.904  -6.919   0.000  1.00  0.00           C
+HETATM   31 1H11 UNK     0      -2.198  -6.096   0.000  1.00  0.00           H
+HETATM   32 2H11 UNK     0      -3.952  -6.626   0.000  1.00  0.00           H
+HETATM   33  N4  UNK     0       0.116  -6.648   0.000  1.00  0.00           N
+CONECT    1    2    3    4    5                              
+CONECT    2    1                                             
+CONECT    3    1                                             
+CONECT    4    1                                             
+CONECT    5    1    6    7                                   
+CONECT    6    5                                             
+CONECT    7    5    8   11                                   
+CONECT    8    7    9   10                                   
+CONECT    9    8                                             
+CONECT   10    8   11   13                                   
+CONECT   11    7   10   12                                   
+CONECT   12   11                                             
+CONECT   13   10   14   33                                   
+CONECT   14   13   15   16                                   
+CONECT   15   14                                             
+CONECT   16   14   17   20                                   
+CONECT   17   16   18   19                                   
+CONECT   18   17                                             
+CONECT   19   17                                             
+CONECT   20   16   21                                        
+CONECT   21   20   22   33                                   
+CONECT   22   21   23   24   25                              
+CONECT   23   22                                             
+CONECT   24   22                                             
+CONECT   25   22   26   30                                   
+CONECT   26   25   27   28   29                              
+CONECT   27   26                                             
+CONECT   28   26                                             
+CONECT   29   26                                             
+CONECT   30   25   31   32                                   
+CONECT   31   30                                             
+CONECT   32   30                                             
+CONECT   33   13   21                                        
+END
